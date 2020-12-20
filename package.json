@@ -10,6 +10,7 @@
     "dotenv": "8.2.0",
     "instagram-private-api": "1.43.3",
     "instagram-web-api": "2.2.2",
+    "mongoose": "5.11.8",
     "node-vibrant": "3.2.0-alpha"
   },
   "devDependencies": {
