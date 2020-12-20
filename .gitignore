@@ -62,4 +62,4 @@ dist
 .yarn/build-state.yml
 .pnp.*
 
-test.jpeg
+*.jpeg

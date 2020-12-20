@@ -4,10 +4,12 @@
   "description": "my way of quickstarting a node project",
   "main": "app.js",
   "dependencies": {
-    "@alpha-manager/core": "1.0.6",
-    "@alpha-manager/fb": "1.0.6",
     "canvas": "2.6.1",
+    "canvas-to-buffer": "1.1.1",
+    "cron": "1.8.2",
     "dotenv": "8.2.0",
+    "instagram-private-api": "1.43.3",
+    "instagram-web-api": "2.2.2",
     "node-vibrant": "3.2.0-alpha"
   },
   "devDependencies": {
